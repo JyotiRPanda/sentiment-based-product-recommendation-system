@@ -1,7 +1,6 @@
 # sentiment-based-product-recommendation-system
 
-Demo URL : https://sentimentbasedrecommendationjp.herokuapp.com/
-
+Demo URL :https://sentimentbasedrecommendationjp-c7767d1c2b6f.herokuapp.com/
 # Problem Statement
 
 ## Project Title:
