@@ -1,0 +1,21 @@
+{
+  "name": "product-recommendation-app",
+  "description": "A Flask app for product recommendations",
+  "repository": "https://github.com/yourusername/yourrepo",
+  "keywords": ["flask", "recommendation", "machine-learning"],
+  "env": {
+    "FLASK_ENV": "production"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": []
+}
