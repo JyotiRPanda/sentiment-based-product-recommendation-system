@@ -37,13 +37,13 @@ In order to do this, build a sentiment-based product recommendation system, whic
 
 The steps to be performed for the task are given below.
 
-### Exploratory data analysis
+- #### Exploratory data analysis
 
-### Data cleaning
+- #### Data cleaning
 
-### Text preprocessing
+- #### Text preprocessing
 
-### Feature extraction: 
+- #### Feature extraction: 
 In order to extract features from the text data, you may choose from any of the methods, including bag-of-words, TF-IDF vectorization or word embedding.
 
 ### Training a text classification model: 
