@@ -3,22 +3,31 @@
 Demo URL : https://sentimentbasedrecommendationJP.herokuapp.com/
 
 # Problem Statement
-The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
+
+## Project Title:
+Personalized Product Recommendation System for Ebuss
+
+## Background:
+Ebuss is a rapidly growing e-commerce platform offering a wide range of products across categories such as household essentials, books, personal care, medicines, cosmetics, electrical appliances, kitchenware, and healthcare. To remain competitive in a market dominated by established players like Amazon and Flipkart, Ebuss aims to enhance its customer experience through intelligent, personalized services.
+
+## Business Objective:
+To improve user engagement, satisfaction, and conversion rates by delivering highly relevant product recommendations tailored to individual user preferences and behavior.
+
+## Problem Statement:
+Ebuss seeks to develop a machine learning-based recommendation system that leverages users’ historical reviews and ratings to generate personalized product suggestions. The goal is to enhance the relevance and accuracy of recommendations, thereby increasing customer retention and driving sales.
+
+## Scope of Work:
+
+Analyze user interaction data, including past reviews and ratings.
+Design and implement a recommendation model (e.g., collaborative filtering, content-based, or hybrid).
+Evaluate model performance using appropriate metrics (e.g., precision, recall, F1-score, NDCG).
+Integrate the model into the existing e-commerce platform for real-time recommendations.
+Expected Outcome:
+A scalable and efficient recommendation engine that delivers personalized product suggestions, improving user satisfaction and contributing to Ebuss’s competitive advantage in the e-commerce market.
 
  
 
-Suppose you are working as a Machine Learning Engineer in an e-commerce company named 'Ebuss'. Ebuss has captured a huge market share in many fields, and it sells the products in various categories such as household essentials, books, personal care products, medicines, cosmetic items, beauty products, electrical appliances, kitchen and dining products and health care products.
-
- 
-
-With the advancement in technology, it is imperative for Ebuss to grow quickly in the e-commerce market to become a major leader in the market because it has to compete with the likes of Amazon, Flipkart, etc., which are already market leaders.
-
-
-As a senior ML Engineer, you are asked to build a model that will improve the recommendations given to the users given their past reviews and ratings. 
-
- 
-
-In order to do this, you planned to build a sentiment-based product recommendation system, which includes the following tasks.
+In order to do this, build a sentiment-based product recommendation system, which includes the following tasks.
 
 - Data sourcing and sentiment analysis
 - Building a recommendation system
@@ -26,10 +35,7 @@ In order to do this, you planned to build a sentiment-based product recommendati
 - Deploying the end-to-end project with a user interface
 
 
-The dataset that you are going to use is inspired by this Kaggle competition. We have made a subset of the original dataset, which has been provided below.
-
-
-The steps to be performed for the first task are given below.
+The steps to be performed for the task are given below.
 
 ### Exploratory data analysis
 
