@@ -1,1 +1,1 @@
-https://sentimentbasedrecommendationjp.herokuapp.com/
+https://sentimentbasedrecommendationjp-c7767d1c2b6f.herokuapp.com/
